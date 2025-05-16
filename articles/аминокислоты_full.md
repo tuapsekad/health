@@ -19,6 +19,6 @@
 15. **Серин** (Serine)  - [статья(En](https://storm.genie.stanford.edu/article/serine-1153083))
 16. **Треонин** (Threonine)  - [статья(En](https://storm.genie.stanford.edu/article/threonine-1153090))
 17. **Триптофан** (Tryptophan)  - [статья(En)](https://storm.genie.stanford.edu/article/tryptophan-1153095)
-18. **Тирозин** (Tyrosine) - статья(En)
-19. **Фенилаланин** (Phenylalanine) - статья(En)
+18. **Тирозин** (Tyrosine) - [статья(En)](https://storm.genie.stanford.edu/article/tyrosine-1153269)
+19. **Фенилаланин** (Phenylalanine) - [статья(En)](https://storm.genie.stanford.edu/article/phenylalanine-1153321)
 20. **Цистеин** (Cysteine) - статья(En)

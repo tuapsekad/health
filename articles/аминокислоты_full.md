@@ -3,7 +3,7 @@
 #### * Протеиногенные аминокислоты (входят в состав белков)
 
 1. [**Аланин** ](Аланин.md)(Alanine)  - [статья(En)](https://storm.genie.stanford.edu/article/alanine-1146711)
-2. **Аргинин** (Arginine)  - [статья(En)](https://storm.genie.stanford.edu/article/arginine-1146749)
+2. **[Аргинин](Аргинин.md)** (Arginine)  - [статья(En)](https://storm.genie.stanford.edu/article/arginine-1146749)
 3. **Аспарагин** (Asparagine)  - [статья(En)](https://storm.genie.stanford.edu/article/asparagine-1146852)
 4. **Аспарагиновая кислота** (Aspartic acid)  - [статья(En](https://storm.genie.stanford.edu/article/aspartic-acid-1147096))
 5. **Валин** (Valine)  - [статья(En](https://storm.genie.stanford.edu/article/valine-1147161))

@@ -4,7 +4,7 @@
 
 1. [**Аланин** ](Аланин.md)(Alanine) - [статья(En)](https://storm.genie.stanford.edu/article/alanine-1146711) [статья(PDF)](PDF/Alanine.pdf)
 2. **[Аргинин](Аргинин.md)** (Arginine) - [статья(En)](https://storm.genie.stanford.edu/article/arginine-1146749) [статья(PDF)](PDF/Arginine.pdf)
-3. **Аспарагин** (Asparagine) - [статья(En)](https://storm.genie.stanford.edu/article/asparagine-1146852) [статья(PDF)](PDF/Asparagine.pdf)
+3. **[Аспарагин](Аспаргин.md)** (Asparagine) - [статья(En)](https://storm.genie.stanford.edu/article/asparagine-1146852) [статья(PDF)](PDF/Asparagine.pdf)
 4. **Аспарагиновая кислота** (Aspartic acid) - [статья(En](https://storm.genie.stanford.edu/article/aspartic-acid-1147096)) [статья(PDF)](PDF/Aspartic_acid.pdf)
 5. **Валин** (Valine) - [статья(En](https://storm.genie.stanford.edu/article/valine-1147161)) [статья(PDF)](PDF/Valine.pdf)
 6. **Гистидин** (Histidine) - [статья(En](https://storm.genie.stanford.edu/article/histidine-1147214)) [статья(PDF)](PDF/Histidine.pdf)
@@ -36,7 +36,7 @@
 
 23. Орнитин (Ornithine) - [статья(En)](https://storm.genie.stanford.edu/article/ornithine-1154037) [статья(PDF)](PDF/Ornithine.pdf)
 24. Цитруллин (Citrulline) - [статья(En)](https://storm.genie.stanford.edu/article/citrulline-1154044) [статья(PDF)](PDF/Citrulline.pdf)
-25. Таурин (Taurine) - [статья(En)](https://storm.genie.stanford.edu/article/taurine-1155976)  [2](https://storm.genie.stanford.edu/article/how-does-taurin-influence-metabolic-syndrom%2C-insulin-sensitivity%2C-diabetes-and-fat-metabolism-571521) [статья(PDF)](PDF/Taurine.pdf)
+25. Таурин (Taurine) - [статья(En)](https://storm.genie.stanford.edu/article/taurine-1155976) [2](https://storm.genie.stanford.edu/article/how-does-taurin-influence-metabolic-syndrom%2C-insulin-sensitivity%2C-diabetes-and-fat-metabolism-571521) [статья(PDF)](PDF/Taurine.pdf)
 26. Гамма-аминомасляная кислота (GABA, Gamma-aminobutyric acid) - [статья(En)](https://storm.genie.stanford.edu/article/gaba%2C-gamma-aminobutyric-acid-1155997) [статья(PDF)](PDF/GABA_Gamma-aminobutyric_acid.pdf)
 27. Бета-аланин (Beta-Alanine) - [статья(En)](https://storm.genie.stanford.edu/article/beta-alanine-1156017) [статья(PDF)](PDF/Beta-Alanine.pdf)
 28. Гомоцистеин (Homocysteine) - [статья(En)](https://storm.genie.stanford.edu/article/homocysteine-1156031) [статья(PDF)](PDF/Homocysteine.pdf)

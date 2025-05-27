@@ -5,7 +5,7 @@
 1. [**Аланин** ](Аланин.md)(Alanine) - [статья(En)](https://storm.genie.stanford.edu/article/alanine-1146711) [статья(PDF)](PDF/Alanine.pdf)
 2. **[Аргинин](Аргинин.md)** (Arginine) - [статья(En)](https://storm.genie.stanford.edu/article/arginine-1146749) [статья(PDF)](PDF/Arginine.pdf)
 3. **[Аспарагин](Аспаргин.md)** (Asparagine) - [статья(En)](https://storm.genie.stanford.edu/article/asparagine-1146852) [статья(PDF)](PDF/Asparagine.pdf)
-4. **Аспарагиновая кислота** (Aspartic acid) - [статья(En](https://storm.genie.stanford.edu/article/aspartic-acid-1147096)) [статья(PDF)](PDF/Aspartic_acid.pdf)
+4. **[Аспарагиновая кислота](Аспарагиновая_кислота.md)** (Aspartic acid) - [статья(En](https://storm.genie.stanford.edu/article/aspartic-acid-1147096)) [статья(PDF)](PDF/Aspartic_acid.pdf)
 5. **Валин** (Valine) - [статья(En](https://storm.genie.stanford.edu/article/valine-1147161)) [статья(PDF)](PDF/Valine.pdf)
 6. **Гистидин** (Histidine) - [статья(En](https://storm.genie.stanford.edu/article/histidine-1147214)) [статья(PDF)](PDF/Histidine.pdf)
 7. **Глицин** (Glycine) - [статья(En](https://storm.genie.stanford.edu/article/glycine-1147231)) [статья(PDF)](PDF/Glycine.pdf)

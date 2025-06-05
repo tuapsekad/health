@@ -4,3 +4,6 @@ https://chat.qwen.ai/
 markdown online
 https://stackedit.io/app#
 https://markdownlivepreview.com/
+
+docx to md
+https://mconverter.eu/convert/docx/md/

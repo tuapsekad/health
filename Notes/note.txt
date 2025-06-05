@@ -6,4 +6,5 @@ https://stackedit.io/app#
 https://markdownlivepreview.com/
 
 docx to md
+https://products.groupdocs.cloud/ru/conversion/python/docx-to-md/#accept
 https://mconverter.eu/convert/docx/md/

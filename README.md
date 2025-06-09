@@ -6,7 +6,7 @@
 
 ## 🔸[Проект Просто мясо](Notes/Просто_мясо.md)
 
-## 🔸 [HYPERCARNIVOROUS HUMANS (ГИПЕРПЛОТОЯДНЫЕ ЛЮДИ)](articles_webs/HYPERCARNIVOROUS_HUMANS/00_СОДЕРЖАНИЕ.md*
+## 🔸[HYPERCARNIVOROUS HUMANS (ГИПЕРПЛОТОЯДНЫЕ ЛЮДИ)](articles_webs/HYPERCARNIVOROUS_HUMANS/00_СОДЕРЖАНИЕ.md)
 
 
 [О себе](articles/about.md)

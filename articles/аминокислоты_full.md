@@ -81,37 +81,37 @@
 60. Альфа-аминокапроновая кислота (α-Aminocaproic acid) - [статья(En)](https://storm.genie.stanford.edu/article/alfa-aminocaproic-acid-1187032) [статья(PDF)](PDF/alfa_Aminocaproic_acid.pdf)
 61. Альфа-аминопимелиновая кислота (α-Aminopimelic acid) - [статья(En)](https://storm.genie.stanford.edu/article/alfa-aminopimelic-acid-1187040) [статья(PDF)](PDF/alfa_Aminopimelic_acid.pdf)
 62. О-метилтирозин (O-Methyltyrosine) - [статья(En)](https://storm.genie.stanford.edu/article/o-methyltyrosine-1187044) [статья(PDF)](PDF/O_Methyltyrosine.pdf)
-63. Нитротирозин (Nitrotyrosine)
-64. Азотирозин (Azotyrosine)
+63. Нитротирозин (Nitrotyrosine) - [статья(En)](https://storm.genie.stanford.edu/article/nitrotyrosine-1208872)
+64. Азотирозин (Azotyrosine) - [статья(En)](https://storm.genie.stanford.edu/article/azotyrosine-1208879)
 
 ---
 
 #### 🟡 5. Экзотические аминокислоты из природных источников (бактерии, растения, морские организмы)
 
-65. Стрептозамин (Streptozamine)
-66. Пара-аминосалициловая кислота (p-Aminosalicylic acid)
-67. Дезоксирибозилглицин (Deoxyribosylglycine)
-68. Креатинин (Creatinine)
-69. Никотиниламинокислота (Nicotinylamino acid)
-70. Мирозмин (Myrosmine)
-71. Пиперазиновая кислота (Piperazine acid)
+65. Стрептозамин (Streptozamine) - [статья(En)](https://storm.genie.stanford.edu/article/streptozamine-1208887)
+66. Пара-аминосалициловая кислота (p-Aminosalicylic acid) - [статья(En)](https://storm.genie.stanford.edu/article/p-aminosalicylic-acid-1208892)
+67. Дезоксирибозилглицин (Deoxyribosylglycine) - [статья(En)](https://storm.genie.stanford.edu/article/deoxyribosylglycine-1208895)
+68. Креатинин (Creatinine) - [статья(En)](https://storm.genie.stanford.edu/article/creatinine-1208899)
+69. Никотиниламинокислота (Nicotinylamino acid) - [статья(En)](https://storm.genie.stanford.edu/article/nicotinylamino-acid-1208903)
+70. Мирозмин (Myrosmine) - [статья(En)](https://storm.genie.stanford.edu/article/myrosmine-1208914)
+71. Пиперазиновая кислота (Piperazine acid) - [статья(En)](https://storm.genie.stanford.edu/article/piperazine-acid-1208920)
 
 ---
 
 #### 🟡 6. Редкие аминокислоты, найденные в метеоритах и космических объектах
 
-72. Изовалин (Isovaline)
-73. Псевдолевцин (Pseudoleucine)
+72. Изовалин (Isovaline) - [статья(En)](https://storm.genie.stanford.edu/article/isovaline-1208928)
+73. Псевдолевцин (Pseudoleucine) - [статья(En)](https://storm.genie.stanford.edu/article/pseudoleucine-1220715)
 74. Аминокислоты с D-конфигурацией (D-Amino acids) – почти все стандартные L-аминокислоты имеют D-аналоги в природе
 
 ---
 
 #### 🟡 7. Аминокислотные аналоги, использующиеся в биотехнологиях и исследованиях
 
-75. Азааланин (Azaalanine)
-76. 2-аминобутират (2-Aminobutyrate)
-77. Пирувоил (Pyruvoyl) – ковалентно модифицированный серин в ферментах
-78. Оксетанилаланин (Oxetanylalanine)
+75. Азааланин (Azaalanine) - [статья(En)](https://storm.genie.stanford.edu/article/azaalanine-1220884)
+76. 2-аминобутират (2-Aminobutyrate) - [статья(En)](https://storm.genie.stanford.edu/article/2-aminobutyrate-1220891)
+77. Пирувоил (Pyruvoyl) – ковалентно модифицированный серин в ферментах - [статья(En)](https://storm.genie.stanford.edu/article/pyruvoyl-1220900)
+78. Оксетанилаланин (Oxetanylalanine) - [статья(En)](https://storm.genie.stanford.edu/article/oxetanylalanine-1220909)
 
 ---
 
